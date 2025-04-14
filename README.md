@@ -26,3 +26,5 @@ Synthèse des données de synchronisation : *SynchronizationSummary*
 Emploi des classes dites thread-safe : "NonAtomicOperation"
 
 Intéractions entre Threads : *ProducerConsumerThreadSafe*
+
+Deadlock (2 threads bloqués)

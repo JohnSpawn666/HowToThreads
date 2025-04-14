@@ -28,3 +28,5 @@ Emploi des classes dites thread-safe : "NonAtomicOperation"
 Intéractions entre Threads : *ProducerConsumerThreadSafe*
 
 Deadlock (2 threads bloqués)
+
+Livelock (Un thread en runnable tombe continuellement en erreur)
